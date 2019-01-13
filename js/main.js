@@ -1,4 +1,4 @@
-var USER_SPEED = "slow";
+var USER_SPEED = "fast";
 
 var width = 780,
     height = 800,
