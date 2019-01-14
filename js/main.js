@@ -30,7 +30,7 @@ var act_codes = [
 ];
 
 
-var speeds = { "slow": 1000, "medium": 200, "fast": 50 };
+var speeds = { "slow": 200, "medium": 40, "fast": 10 };
 
 
 var time_notes = [
