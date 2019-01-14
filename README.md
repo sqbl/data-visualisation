@@ -8,7 +8,7 @@ Check it out at https://sqbl.github.io/data-visualisation/
 
 # Hand waving explanation of data acquisition.
 
-Imagine having a huge pile of timber-wood (imagine the pile to be really huge, like 6,023 x 10^23-huge). Your task is to attach exactly two nails to every individual piece of timber. 
+Imagine having a huge pile of timber-wood (imagine the pile to be really huge, like 6.023 x 10^23-huge). Your task is to attach exactly two nails to every individual piece of timber. 
 There are nails enough – they are supplied to you in a steady stream, so that we have always a few nails around.
 Now, imagine that the timbers can only be “nailed” in four different positions. Two of these are markedly more likely to be nailed than the remaining two places. (let’s call the timber “Backbone” (BB), and the four possible mono-nailed timbers “NA”, “NB”, “K1” and “K2”. K1 and K2 are assumed to be >10-times more likely compared to NA and NB)
 
